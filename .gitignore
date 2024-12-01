@@ -1,0 +1,10 @@
+./KDD/*
+*.jpg
+*.csv
+*.zip
+*.pyc
+*.pth
+*.pt
+*.json
+*.png
+*__Window*
