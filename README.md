@@ -6,7 +6,7 @@
 2. Tải về các thư viện cần thiết bằng terminal `pip install -r requirements.txt`
 3. Chạy quá trình training và prediction, chạy `python multimodal_training.py` nếu bạn muốn tự train bằng dataset của bạn, để làm điểu đó hãy điểu chỉnh `args` dictionary ở trong `main` function
 4. Chạy model bằng cách chạy `python multimodal_testing.py` bằng dataset đã có sẵn trong repo này
-**Disclaimer** 
+## Disclaimer 
 Tất cả source code trong github này được viết bởi `dsaaidgovsg` trong  [ github repository của họ](https://github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial.git) và còn sử dụng source file trong [ALBEF's GitHub repo](https://github.com/salesforce/ALBEF)
 (nhấn vào filename để mở repository).
 ## Dataset được sử dụng trong source code này
